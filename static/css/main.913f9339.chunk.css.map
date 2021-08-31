@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/css/TextForm.css"],"names":[],"mappings":"AAAA,SACI,aACJ,CACA,QACI,aACJ,CACA,QACI,aACJ,CACA,MACI,WACJ","file":"main.913f9339.chunk.css","sourcesContent":[".fb_blue{\r\n    color:rgb(34, 34, 207);\r\n}\r\n.gg_red{\r\n    color:rgb(158, 33, 33);\r\n}\r\n.tw_sky{\r\n    color:rgb(18, 172, 219);\r\n}\r\n.time{\r\n    color:green;\r\n}\r\n\r\n"]}
